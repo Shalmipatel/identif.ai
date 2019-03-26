@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Identif.ai</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Main Screen-->
+    <string name="main_identify_person">IDENTIFY PERSON</string>
+    <string name="main_recent_searches">RECENT SEARCHES</string>
+    <string name="main_saved_searches">SAVED SEARCHES</string>
+
+    <!--Input Controller-->
+    <string name="input_data">Add Information</string>
+    <string name="input_submit">Submit</string>
+    <string name="input_text">Text Entry</string>
+    <string name="input_image">Image Entry</string>
+    <string name="input_souond">Sound Entry</string>
+    <string name="input_description">Identif.ai allows you to identify an individual using mutliple forms of
+        input. Search for the person you are looking for via Text, Image and/or sound and let Identif.ai do the
+    rest. </string>
+    <!--Recent Searches-->
+    <string name="recent_searches_header">Recent Searches</string>
+
+    <!--Saved Searches-->
+    <string name="saved_searches_header">Saved Searches</string>
+
+    <!--Output Controller-->
+    <string name="output_title">Results</string>
+    <string name="output_share">Share</string>
+    <string name="output_save">Save</string>
+    <string name="send_to">Share to..</string>
+    <string name="saved_successful">Your search has beeen successfully saved!</string>
+
+    <!--Errors-->
+    <string name="no_entry_yet">Please select at least one form of entry.</string>
+</resources>

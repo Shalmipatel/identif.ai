@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sound</string>
+    <string name="record_sound">Record Sound</string>
+    <string name="sound_description">Use the power of sound recognition to uncover the identity of an
+        individual. Simply start recording and Identif.ai will do the rest.</string>
+</resources>

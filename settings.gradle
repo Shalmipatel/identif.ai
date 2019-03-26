@@ -1,0 +1,1 @@
+include ':identifai', ':app-core', ':sound', ':text', ':image'

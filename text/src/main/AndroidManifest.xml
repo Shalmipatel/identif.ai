@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="mcmaster.ca.text"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name=".DescriptionController"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

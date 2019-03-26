@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Core</string>
+    <string name="app_loading">Loading..</string>
+    <string name="submit_action">Submit</string>
+</resources>

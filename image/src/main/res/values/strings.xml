@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">image</string>
+    <string name="select_image">Select an Image</string>
+    <string name="select_image_description">Use image recognition to identify an individual or multiple
+        individuals in a photo. You will be able to select an image from your gallary or take a photo directly
+        from your camera.</string>
+    <string name="select_image_error">Please Select an Image.</string>
+</resources>

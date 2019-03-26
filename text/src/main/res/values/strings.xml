@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">text</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="enter_text_placeholder">Enter movie, keyword, etc</string>
+</resources>
